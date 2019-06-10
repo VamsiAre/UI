@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JATO.JATONet.Automation.UI.Test", "JATO.JATONet.Automation.UI.Tests\JATO.JATONet.Automation.UI.Test.csproj", "{15781522-7414-46F3-A2F5-BE5C84FFCD74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DEMO|Any CPU = DEMO|Any CPU
+		DEV|Any CPU = DEV|Any CPU
+		PRELIVE|Any CPU = PRELIVE|Any CPU
+		QA|Any CPU = QA|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15781522-7414-46F3-A2F5-BE5C84FFCD74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15781522-7414-46F3-A2F5-BE5C84FFCD74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15781522-7414-46F3-A2F5-BE5C84FFCD74}.DEMO|Any CPU.ActiveCfg = PRELIVE|Any CPU
+		{15781522-7414-46F3-A2F5-BE5C84FFCD74}.DEMO|Any CPU.Build.0 = PRELIVE|Any CPU
+		{15781522-7414-46F3-A2F5-BE5C84FFCD74}.DEV|Any CPU.ActiveCfg = DEV|Any CPU
+		{15781522-7414-46F3-A2F5-BE5C84FFCD74}.DEV|Any CPU.Build.0 = DEV|Any CPU
+		{15781522-7414-46F3-A2F5-BE5C84FFCD74}.PRELIVE|Any CPU.ActiveCfg = PRELIVE|Any CPU
+		{15781522-7414-46F3-A2F5-BE5C84FFCD74}.PRELIVE|Any CPU.Build.0 = PRELIVE|Any CPU
+		{15781522-7414-46F3-A2F5-BE5C84FFCD74}.QA|Any CPU.ActiveCfg = QA|Any CPU
+		{15781522-7414-46F3-A2F5-BE5C84FFCD74}.QA|Any CPU.Build.0 = QA|Any CPU
+		{15781522-7414-46F3-A2F5-BE5C84FFCD74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15781522-7414-46F3-A2F5-BE5C84FFCD74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EDB7160-9952-4DD5-84B8-1458BBFB8C50}
+	EndGlobalSection
+EndGlobal
